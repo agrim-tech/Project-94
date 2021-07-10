@@ -1,0 +1,22 @@
+body{
+    background-color:#505050;
+    height: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.login-area{
+    background: linear-gradient(to bottom right ,#eeeeee,#bbbbbb);
+    border-radius:30px;
+}
+.button-login{
+    background-color: #323232;
+    border-radius: 30px;
+}
+.libre-franklin{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.user-img{
+    border-radius: 50%;
+    width: 130px;
+}
